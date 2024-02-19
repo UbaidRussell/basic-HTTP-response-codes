@@ -2,5 +2,5 @@
 
 | Status Code | Meaning | 
 |----------|----------|
-|   Row 1  |   Row 1  |
+|   200(OK)  |  Standard response for a successful HTTP request |
 |   Row 2  |   Row 2  |
