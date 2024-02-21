@@ -1,5 +1,8 @@
 # basic-HTTP-response-codes
 
+This is a repository for basic HTTP response codes. It is a simple reference for developers to use when working with HTTP requests and responses. Feel free to use this as a reference for your project or to contribute to it.
+
+
 | Status Code | Meaning | 
 |----------|----------|
 |   200(OK)  |  Standard response for a successful HTTP request |
