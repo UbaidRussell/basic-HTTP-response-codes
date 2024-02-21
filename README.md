@@ -3,4 +3,4 @@
 | Status Code | Meaning | 
 |----------|----------|
 |   200(OK)  |  Standard response for a successful HTTP request |
-|   Row 2  |   Row 2  |
+|   201(Created)  |   Standard response for HTTP request that results in an item being created.  |
